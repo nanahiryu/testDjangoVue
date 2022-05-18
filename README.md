@@ -1,1 +1,2 @@
 # testDjangoVue
+[フルスタックチャンネル](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGRkTXpfSS1GVlY4dWF0U2pQeEFhV1gtemJCQXxBQ3Jtc0trbUlYVUg5UFBid0k5eTdWdFc0czUtNEwtR0x0bXViSVpEYlczSXpFYmV1SkVCaU9fTUVUd2UzSkVFSTViTmpuYUpOYVBTQ1hscUlMY0tUdUFHNmdKNmxIc0huYTZTVTBIcnhmT3FOTHB4WF9CU2k0OA&q=https%3A%2F%2Fwww.fullstackchannel.com%2F&v=nKuUhMxsRfo)を参考にDjangoとVueの連携の勉強をするためのもの
